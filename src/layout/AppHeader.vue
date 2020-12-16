@@ -46,7 +46,7 @@
                     </div>
                 </base-dropdown>
                 <li class="nav-item d-none d-lg-block ml-lg-4">
-                    <router-link slot="brand" to="/login">
+                    <router-link slot="brand" to="/">
                         <span class="nav-link-inner--text">Nos offres</span>
                     </router-link>
                 </li>
