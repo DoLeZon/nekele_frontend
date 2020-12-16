@@ -40,7 +40,7 @@
                             <form role="form">
                                 <base-input alternative
                                             class="mb-3"
-                                            placeholder="Name"
+                                            placeholder="Nom d'utilisateur"
                                             addon-left-icon="ni ni-hat-3">
                                 </base-input>
                                 <base-input alternative
@@ -50,21 +50,21 @@
                                 </base-input>
                                 <base-input alternative
                                             type="password"
-                                            placeholder="Password"
+                                            placeholder="Mot de passe"
                                             addon-left-icon="ni ni-lock-circle-open">
                                 </base-input>
                                 <div class="text-muted font-italic">
-                                    <small>password strength:
-                                        <span class="text-success font-weight-700">strong</span>
+                                    <small>Robustesse du mot de passe:
+                                        <span class="text-success font-weight-700">fort</span>
                                     </small>
                                 </div>
                                 <base-checkbox>
-                                    <span>I agree with the
-                                        <a href="#">Privacy Policy</a>
+                                    <span>J'accepte les
+                                        <a href="#">termes de confidentialité</a>
                                     </span>
                                 </base-checkbox>
                                 <div class="text-center">
-                                    <base-button type="primary" class="my-4">Create account</base-button>
+                                    <base-button type="primary" class="my-4">Créer le compte</base-button>
                                 </div>
                             </form>
                         </template>
