@@ -19,7 +19,7 @@
                           class="border-0">
                         <template>
                             <div class="text-muted text-center mb-3">
-                                <small>Sign in with</small>
+                                <small>Se connecter avec</small>
                             </div>
                             <div class="btn-wrapper text-center">
                                 <base-button type="neutral">
@@ -35,7 +35,7 @@
                         </template>
                         <template>
                             <div class="text-center text-muted mb-4">
-                                <small>Or sign in with credentials</small>
+                                <small>Ou avec vos identifiants</small>
                             </div>
                             <form role="form">
                                 <base-input alternative
@@ -45,14 +45,14 @@
                                 </base-input>
                                 <base-input alternative
                                             type="password"
-                                            placeholder="Password"
+                                            placeholder="Mot de passe"
                                             addon-left-icon="ni ni-lock-circle-open">
                                 </base-input>
                                 <base-checkbox>
-                                    Remember me
+                                    Se souvenir de moi
                                 </base-checkbox>
                                 <div class="text-center">
-                                    <base-button type="primary" class="my-4">Sign In</base-button>
+                                    <base-button type="primary" class="my-4">Se connecter</base-button>
                                 </div>
                             </form>
                         </template>
@@ -60,12 +60,12 @@
                     <div class="row mt-3">
                         <div class="col-6">
                             <a href="#" class="text-light">
-                                <small>Forgot password?</small>
+                                <small>Mot de passe oublié?</small>
                             </a>
                         </div>
                         <div class="col-6 text-right">
                             <a href="#" class="text-light">
-                                <small>Create new account</small>
+                                <small>Créer un nouveau compte</small>
                             </a>
                         </div>
                     </div>
