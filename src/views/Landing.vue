@@ -19,26 +19,25 @@
                     <div class="col px-0">
                         <div class="row">
                             <div class="col-lg-6">
-                                <h1 class="display-3  text-white">A beautiful Design System
-                                    <span>completed with examples</span>
+                                <h1 class="display-5  text-white">Découvrir et embaucher les meilleurs talents
+                                    <span>pour réaliser vos projets.</span>
                                 </h1>
-                                <p class="lead  text-white">The design system comes with four pre-built pages to help
-                                    you get started faster. You can change the text and images and you're good to
-                                    go.</p>
+                                <p class="lead  text-white">Nekele vous présente les meilleurs pour donner vie à vos projets les plus incroyables.
+                                    N'attendez plus, faites vous embaucher ou embaucher votre expert.</p>
                                 <div class="btn-wrapper">
                                     <base-button tag="a"
                                                  href="https://demos.creative-tim.com/argon-design-system/docs/components/alerts.html"
                                                  class="mb-3 mb-sm-0"
                                                  type="info"
                                                  icon="fa fa-code">
-                                        Components
+                                        Postuler
                                     </base-button>
                                     <base-button tag="a"
                                                  href="https://www.creative-tim.com/product/argon-design-system"
                                                  class="mb-3 mb-sm-0"
                                                  type="white"
                                                  icon="ni ni-cloud-download-95">
-                                        Download HTML
+                                        Embaucher
                                     </base-button>
                                 </div>
                             </div>
@@ -57,16 +56,16 @@
                                 <card class="border-0" hover shadow body-classes="py-5">
                                     <icon name="ni ni-check-bold" type="primary" rounded class="mb-4">
                                     </icon>
-                                    <h6 class="text-primary text-uppercase">Download Argon</h6>
-                                    <p class="description mt-3">Argon is a great free UI package based on Bootstrap 4
-                                        that includes the most important components and features.</p>
+                                    <h6 class="text-primary text-uppercase">Publier un projet</h6>
+                                    <p class="description mt-3">C'est facile. Publiez simplement un travail que vous avez besoin de 
+                                        compléter et recevez des offres compétitives de freelances en quelques minutes.</p>
                                     <div>
                                         <badge type="primary" rounded>design</badge>
                                         <badge type="primary" rounded>system</badge>
                                         <badge type="primary" rounded>creative</badge>
                                     </div>
                                     <base-button tag="a" href="#" type="primary" class="mt-4">
-                                        Learn more
+                                        Continuer
                                     </base-button>
                                 </card>
                             </div>
@@ -74,16 +73,18 @@
                                 <card class="border-0" hover shadow body-classes="py-5">
                                     <icon name="ni ni-istanbul" type="success" rounded class="mb-4">
                                     </icon>
-                                    <h6 class="text-success text-uppercase">Build Something</h6>
-                                    <p class="description mt-3">Argon is a great free UI package based on Bootstrap
-                                        4 that includes the most important components and features.</p>
+                                    <h6 class="text-success text-uppercase">Choisir des freelances</h6>
+                                    <p class="description mt-3">Peu importe ce dont vous avez besoin, il y aura un freelance pour 
+                                        le réaliser : depuis le design Internet, le développement d'applications mobiles, 
+                                        les assistants virtuels, la fabrication de produits et le design graphique 
+                                        (et bien plus encore).</p>
                                     <div>
                                         <badge type="success" rounded>business</badge>
                                         <badge type="success" rounded>vision</badge>
                                         <badge type="success" rounded>success</badge>
                                     </div>
-                                    <base-button tag="a" href="#" type="success" class="mt-4">
-                                        Learn more
+                                    <base-button tag="a" href="#" typ   e="success" class="mt-4">
+                                        Continuer
                                     </base-button>
                                 </card>
                             </div>
@@ -91,16 +92,17 @@
                                 <card class="border-0" hover shadow body-classes="py-5">
                                     <icon name="ni ni-planet" type="warning" rounded class="mb-4">
                                     </icon>
-                                    <h6 class="text-warning text-uppercase">Prepare Launch</h6>
-                                    <p class="description mt-3">Argon is a great free UI package based on Bootstrap
-                                        4 that includes the most important components and features.</p>
+                                    <h6 class="text-warning text-uppercase">Contrat et Paiements</h6>
+                                    <p class="description mt-3">Par des contrats avec des professionnels, nous avons des paiements sécurisés
+                                        ce qui fait de Nekele la manière la plus simple et la plus 
+                                        sûre de faire réaliser du travail en ligne..</p>
                                     <div>
                                         <badge type="warning" rounded>marketing</badge>
                                         <badge type="warning" rounded>product</badge>
                                         <badge type="warning" rounded>launch</badge>
                                     </div>
                                     <base-button tag="a" href="#" type="warning" class="mt-4">
-                                        Learn more
+                                        Continuer
                                     </base-button>
                                 </card>
                             </div>
@@ -109,44 +111,7 @@
                 </div>
             </div>
         </section>
-        <section class="section section-lg">
-            <div class="container">
-                <div class="row row-grid align-items-center">
-                    <div class="col-md-6 order-md-2">
-                        <img src="img/theme/promo-1.png" class="img-fluid floating">
-                    </div>
-                    <div class="col-md-6 order-md-1">
-                        <div class="pr-md-5">
-                            <icon name="ni ni-settings-gear-65" class="mb-5" size="lg" type="success" shadow
-                                  rounded></icon>
-                            <h3>Awesome features</h3>
-                            <p>The kit comes with three pre-built pages to help you get started faster. You can change
-                                the text and images and you're good to go.</p>
-                            <ul class="list-unstyled mt-5">
-                                <li class="py-2">
-                                    <div class="d-flex align-items-center">
-                                        <badge type="success" circle class="mr-3" icon="ni ni-settings-gear-65"></badge>
-                                        <h6 class="mb-0">Carefully crafted components</h6>
-                                    </div>
-                                </li>
-                                <li class="py-2">
-                                    <div class="d-flex align-items-center">
-                                        <badge type="success" circle class="mr-3" icon="ni ni-html5"></badge>
-                                        <h6 class="mb-0">Amazing page examples</h6>
-                                    </div>
-                                </li>
-                                <li class="py-2">
-                                    <div class="d-flex align-items-center">
-                                        <badge type="success" circle class="mr-3" icon="ni ni-satisfied"></badge>
-                                        <h6 class="mb-0">Super friendly support team</h6>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        
         <section class="section bg-secondary">
             <div class="container">
                 <div class="row row-grid align-items-center">
@@ -168,17 +133,10 @@
                     </div>
                     <div class="col-md-6">
                         <div class="pl-md-5">
-                            <icon name="ni ni-settings" class="mb-5" size="lg" type="warning" shadow rounded></icon>
-
-                            <h3>Our customers</h3>
-                            <p class="lead">Don't let your uses guess by attaching tooltips and popoves to any element.
-                                Just make sure you enable them first via JavaScript.</p>
-                            <p>The kit comes with three pre-built pages to help you get started faster. You can change
-                                the text and images and you're good to go.</p>
-                            <p>The kit comes with three pre-built pages to help you get started faster. You can change
-                                the text and images and you're good to go.</p>
-                            <a href="#" class="font-weight-bold text-warning mt-5">A beautiful UI Kit for impactful
-                                websites</a>
+                            <img v-lazy="'img/post_job.png'" class="mb-5" size="lg" shadow rounded>
+                            <img v-lazy="'img/find_hire.webp'" class="mb-5" size="lg" shadow rounded>
+                            <img v-lazy="'img/award_pay.png'" class="mb-5" size="lg" shadow rounded>
+                            <img v-lazy="'img/work_aprove.png'" class="mb-5" size="lg" shadow rounded>
                         </div>
                     </div>
                 </div>
@@ -375,10 +333,11 @@
             <div class="container pt-lg pb-300">
                 <div class="row text-center justify-content-center">
                     <div class="col-lg-10">
-                        <h2 class="display-3 text-white">Build something</h2>
-                        <p class="lead text-white">According to the National Oceanic and Atmospheric Administration,
-                            Ted, Scambos, NSIDClead scentist, puts the potentially record low maximum sea ice extent
-                            tihs year down to low ice.</p>
+                        <h2 class="display-3 text-white">Notre vision</h2>
+                        <p class="lead text-white">Au cœur de la transformation du monde du travail, nous accélérons, ensemble, 
+                            le succès des talents et des entreprises. Nos clients nous utilisent pour la sécurisation des services 
+                            fournis, nous reconnaissent pour le transfert d’autonomie, nous gratifient de la liberté procurée. Simples, 
+                            transparentes, intelligentes, collaboratives, nos solutions libèrent la vie des entreprises et des talents.</p>
                     </div>
                 </div>
                 <div class="row row-grid mt-5">
@@ -408,94 +367,30 @@
                 <div class="row justify-content-center mt--300">
                     <div class="col-lg-8">
                         <card gradient="secondary" shadow body-classes="p-lg-5">
-                            <h4 class="mb-1">Want to work with us?</h4>
-                            <p class="mt-0">Your project is very important to us.</p>
+                            <h4 class="mb-1">Vous voulez travailler avec nous?</h4>
+                            <p class="mt-0">Votre proposition sera la bienvenue. Laissez nous un message et nous vous ferons un retour.</p>
                             <base-input class="mt-5"
                                         alternative
-                                        placeholder="Your name"
+                                        placeholder="Votre nom complet"
                                         addon-left-icon="ni ni-user-run">
                             </base-input>
                             <base-input alternative
-                                        placeholder="Email address"
+                                        placeholder="Adresse Email"
                                         addon-left-icon="ni ni-email-83">
                             </base-input>
                             <base-input class="mb-4">
                                     <textarea class="form-control form-control-alternative" name="name" rows="4"
-                                              cols="80" placeholder="Type a message..."></textarea>
+                                              cols="80" placeholder="Tapez votre message..."></textarea>
                             </base-input>
                             <base-button type="default" round block size="lg">
-                                Send Message
+                                Envoyer le message
                             </base-button>
                         </card>
                     </div>
                 </div>
             </div>
         </section>
-        <section class="section section-lg">
-            <div class="container">
-                <div class="row row-grid justify-content-center">
-                    <div class="col-lg-8 text-center">
-                        <h2 class="display-3">Do you love this awesome
-                            <span class="text-success">Design System for Bootstrap 4?</span>
-                        </h2>
-                        <p class="lead">Cause if you do, it can be yours for FREE. Hit the button below to navigate to
-                            Creative Tim where you can find the Design System in HTML. Start a new project or give an
-                            old Bootstrap project a new look!</p>
-                        <div class="btn-wrapper">
-                            <a href="https://www.creative-tim.com/product/vue-argon-design-system"
-                               class="btn btn-primary mb-3 mb-sm-0">Download Vue</a>
-                        </div>
-                        <div class="text-center">
-                            <h4 class="display-4 mb-5 mt-5">Available on these technologies</h4>
-                            <div class="row justify-content-center">
-                                <div class="col-lg-2 col-4">
-                                    <a href="https://getbootstrap.com/" target="_blank" data-toggle="tooltip"
-                                       data-original-title="Bootstrap 4 - Most popular front-end component library">
-                                        <img v-lazy="'https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/bootstrap.jpg'"
-                                             class="img-fluid">
-                                    </a>
-                                </div>
-                                <div class="col-lg-2 col-4">
-                                    <a href="https://www.sketchapp.com/" target="_blank" data-toggle="tooltip"
-                                       data-original-title="[Coming Soon] Sketch - Digital design toolkit">
-                                        <img v-lazy="'https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/sketch.jpg'"
-                                             class="img-fluid opacity-5">
-                                    </a>
-                                </div>
-                                <div class="col-lg-2 col-4">
-                                    <a href="https://www.adobe.com/products/photoshop.html" data-toggle="tooltip"
-                                       data-original-title="[Coming Soon] Adobe Photoshop - Software for digital images manipulation">
-                                        <img v-lazy="'https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/ps.jpg'"
-                                             class="img-fluid  opacity-5">
-                                    </a>
-                                </div>
-                                <div class="col-lg-2 col-4">
-                                    <a href="https://vuejs.org/" target="_blank" data-toggle="tooltip"
-                                       data-original-title="Vue.js - The progressive javascript framework">
-                                        <img v-lazy="'https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/vue.jpg'"
-                                             class="img-fluid">
-                                    </a>
-                                </div>
-                                <div class="col-lg-2 col-4">
-                                    <a href="https://angularjs.org/" target="_blank" data-toggle="tooltip"
-                                       data-original-title="[Coming Soon] Angular - One framework. Mobile &amp; desktop">
-                                        <img v-lazy="'https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/angular.jpg'"
-                                             class="img-fluid opacity-5">
-                                    </a>
-                                </div>
-                                <div class="col-lg-2 col-4">
-                                    <a href="https://reactjs.org/" target="_blank" data-toggle="tooltip"
-                                       data-original-title="[Coming Soon] React - A JavaScript library for building user interfaces">
-                                        <img v-lazy="'https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/react.jpg'"
-                                             class="img-fluid opacity-5">
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        
 
     </div>
 </template>
