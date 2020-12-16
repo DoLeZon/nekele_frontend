@@ -29,24 +29,19 @@
                 <div class="col-md-6">
                     <div class="copyright">
                         &copy; {{year}}
-                        <a href="https://www.creative-tim.com" target="_blank" rel="noopener">Creative Tim</a> & <a href="https://www.binarcode.com" target="_blank" rel="noopener">Binar Code</a>
+                        <a href="https://www.widomtohe.technology" target="_blank" rel="noopener">Kokouvi Lucien TOHE</a>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <ul class="nav nav-footer justify-content-end">
                         <li class="nav-item">
-                            <a href="https://www.creative-tim.com" class="nav-link" target="_blank" rel="noopener">Creative Tim</a>
+                            <a href="https://www.widomtohe.technology" class="nav-link" target="_blank" rel="noopener">GoIT</a>
                         </li>
                         <li class="nav-item">
-                            <a href="https://www.creative-tim.com/presentation" class="nav-link" target="_blank" rel="noopener">About
-                                Us</a>
+                            <a href="https://www.widomtohe.technology/presentation" class="nav-link" target="_blank" rel="noopener">A propos</a>
                         </li>
                         <li class="nav-item">
-                            <a href="http://blog.creative-tim.com" class="nav-link" target="_blank" rel="noopener">Blog</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="https://github.com/creativetimofficial/argon-design-system/blob/master/LICENSE.md"
-                               class="nav-link" target="_blank" rel="noopener">MIT License</a>
+                            <a href="https://www.widomtohe.technology" class="nav-link" target="_blank" rel="noopener">Blog</a>
                         </li>
                     </ul>
                 </div>
